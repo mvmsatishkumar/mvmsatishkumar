@@ -3,21 +3,27 @@
 </p>
 
 <p align="center">
-  Spring Ecosystem • Software Architecture • REST APIs • PostgreSQL
+  Spring Ecosystem • REST APIs • PostgreSQL • Software Architecture
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgres,git,github,idea,postman&perline=8" />
+
+<img src="https://img.shields.io/badge/Currently-Building-1f6feb?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Spring_Boot-In_Progress-6DB33F?style=flat-square&logo=spring"/>
+
+<img src="https://img.shields.io/badge/DSA-Active-orange?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/System_Design-Learning-blue?style=flat-square"/>
+
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mvmsatishkumar&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&rank_icon=github&theme=transparent" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvmsatishkumar&layout=compact&hide_border=true&hide_title=true&theme=transparent" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgres,maven,git,idea,postman&perline=8" />
 </p>
 
 <p align="center">
   <a href="mailto:mvmsatishkumar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mvmsatishkumar%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-mvmsatishkumar%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-

@@ -1,4 +1,3 @@
-```markdown
 <p align="center">
   <strong>Designing Backend Systems with Java</strong>
 </p>
@@ -21,4 +20,4 @@
     <img src="https://img.shields.io/badge/Email-mvmsatishkumar%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-```
+
